@@ -1,6 +1,8 @@
 # workshop-s22
 Computing Showcase Workshop
 
+https://pages.mtu.edu/~lebrown/workshop-s22/
+
 ## Visualizations in Python
 
 Repository to share introductory notebooks for learning about Visualizations. 
